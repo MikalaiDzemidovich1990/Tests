@@ -18,21 +18,8 @@ XSLT, which from the book database, where the titles and ISBN code are indicated
 <p>Use following commands to start refactoring xml file:</p>
 
 <br><b>/start</b> - the structure of the request will be:
-<div><em>General request [LowPrice/HighPrice].</em></div>
-    <ul>
-        <li>City</li>
-        <li>Date</li>
-        <li>Mode[LowPrice/HighPrice]</li>
-        <li>Number of hotels</li>
-        <li>Show pictures</li>
-        <li>Show pictures</li>
-        <li>Show pictures[Yes/No]</li>
-            <ul>
-                <li>Number of pictures</li>
-            </ul>
-        <li>Location(Region)</li>
-    </ul>
+<div><em>Run book.py</em></div>
 
-<div><em>Example:</em></div>
+
 
 
