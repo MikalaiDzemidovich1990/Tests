@@ -22,9 +22,9 @@ XSLT, which from the book database, where the titles and ISBN code are indicated
 <div><em>Use your browser, copy the local address of your folder with the output .xml file and put it in the browser.</em></div>
 
 
-**Result**
+# Result
 
-<h1>Found books</h1>
+<h3>Found books</h3>
 <p>Author: Corets, Eva</p>
   <ul>
     <li >Book title: Oberon's Legacy | was soled - 14</li>
