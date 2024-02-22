@@ -30,12 +30,25 @@ XSLT, which from the book database, where the titles and ISBN code are indicated
     <li >Book title: Oberon's Legacy | was soled - 14</li>
     <li >Book title: The Sundered Grail | was soled - 75</li>
   </ul>
+<p>Author: Galos, Mike</p>
+  <ul>
+    <li >Visual Studio 7: A Comprehensive Guide | was soled - 25</li>
+  </ul>
+<p>Author: Gambardella, Matthew</p>
+  <ul>
+    <li >XML Developer's Guide | was soled - 4</li>
+  </ul>
 
 
-Author: Galos, Mike
-Book title: Visual Studio 7: A Comprehensive Guide | was soled - 25
-Author: Gambardella, Matthew
-Book title: XML Developer's Guide | was soled - 4
+
+
+
+
+
+Author: 
+Book title: 
+Author: 
+Book title: 
 Author: Garcia, Debra
 Book title: Maeve Ascendant | was soled - 32
 Author: Garghentini, Davide
