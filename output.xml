@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='SimpleNSTest.xsl'?><html>
+  <head/>
+  <body>
+    <catalog>
+      <author>
+        <name>Corets, Eva</name>
+        <book>
+          <title>Oberon's Legacy</title>
+          <purchased>14</purchased>
+        </book>
+        <book>
+          <title>The Sundered Grail</title>
+          <purchased>75</purchased>
+        </book>
+      </author>
+      <author>
+        <name>Galos, Mike</name>
+        <book>
+          <title>Visual Studio 7: A Comprehensive Guide</title>
+          <purchased>25</purchased>
+        </book>
+      </author>
+      <author>
+        <name>Gambardella, Matthew</name>
+        <book>
+          <title>XML Developer's Guide</title>
+          <purchased>4</purchased>
+        </book>
+      </author>
+      <author>
+        <name>Garcia, Debra</name>
+        <book>
+          <title>Maeve Ascendant</title>
+          <purchased>32</purchased>
+        </book>
+      </author>
+      <author>
+        <name>Garghentini, Davide</name>
+        <book>
+          <title>Midnight Rain</title>
+          <purchased>134</purchased>
+        </book>
+      </author>
+      <author>
+        <name>Knorr, Stefan</name>
+        <book>
+          <title>Creepy Crawlies</title>
+          <purchased>63</purchased>
+        </book>
+      </author>
+      <author>
+        <name>Kress, Peter</name>
+        <book>
+          <title>Paradox Lost</title>
+          <purchased>16</purchased>
+        </book>
+      </author>
+      <author>
+        <name>O'Brien, Tim</name>
+        <book>
+          <title>Microsoft .NET: The Programming Bible</title>
+          <purchased>35</purchased>
+        </book>
+        <book>
+          <title>MSXML3: A Comprehensive Guide</title>
+          <purchased>53</purchased>
+        </book>
+      </author>
+      <author>
+        <name>Randall, Cynthia</name>
+        <book>
+          <title>Lover Birds</title>
+          <purchased>22</purchased>
+        </book>
+      </author>
+      <author>
+        <name>Thurman, Paula</name>
+        <book>
+          <title>Splish Splash</title>
+          <purchased>76</purchased>
+        </book>
+      </author>
+    </catalog>
+  </body>
+</html>
