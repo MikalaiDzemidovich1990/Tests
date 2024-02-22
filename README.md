@@ -25,7 +25,7 @@ XSLT, which from the book database, where the titles and ISBN code are indicated
 **Result**
 
 <h1>Found books</h1>
-<pAuthor: Corets, Eva</p>
+<p>Author: Corets, Eva</p>
   <ul>
     <li >Book title: Oberon's Legacy | was soled - 14</li>
     <li >Book title: The Sundered Grail | was soled - 75</li>
