@@ -4,9 +4,9 @@ XSLT, which from the book database, where the titles and ISBN code are indicated
 - Authors in alphabetical order,
 - Under each author there are his alphabetical books in alphabetical order with the number of sales
   <ul>
-      <li>books.xml</li> initial data base of books
-      <li>book.py</li> skrip which refactor books.xml to output.xml file
-      <li>SimpleNSTest.xsl</li> file for rendered and transformed XML file
+      <li>books.xml - initial data base of books</li> 
+      <li>book.py - skript which refactor books.xml to output.xml file</li>
+      <li>SimpleNSTest.xsl - file for rendered and transformed XML file</li>
   </ul>
 
 
