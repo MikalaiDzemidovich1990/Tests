@@ -17,8 +17,37 @@ XSLT, which from the book database, where the titles and ISBN code are indicated
 **How to start**
 <p>Use following commands to start refactoring xml file:</p>
 
-<br><b>/start</b> - the structure of the request will be:
-<div><em>Run book.py</em></div>
+<br><b>start</b> - the structure of the request will be:
+<div><em>Run book.py using any IDE</em></div>
+<div><em>Use your browser, copy the local address of your folder with the output .xml file and put it in the browser.</em></div>
+
+
+**Result**
+
+Found books
+Author: Corets, Eva
+Book title: Oberon's Legacy | was soled - 14
+Book title: The Sundered Grail | was soled - 75
+Author: Galos, Mike
+Book title: Visual Studio 7: A Comprehensive Guide | was soled - 25
+Author: Gambardella, Matthew
+Book title: XML Developer's Guide | was soled - 4
+Author: Garcia, Debra
+Book title: Maeve Ascendant | was soled - 32
+Author: Garghentini, Davide
+Book title: Midnight Rain | was soled - 134
+Author: Knorr, Stefan
+Book title: Creepy Crawlies | was soled - 63
+Author: Kress, Peter
+Book title: Paradox Lost | was soled - 16
+Author: O'Brien, Tim
+Book title: Microsoft .NET: The Programming Bible | was soled - 35
+Book title: MSXML3: A Comprehensive Guide | was soled - 53
+Author: Randall, Cynthia
+Book title: Lover Birds | was soled - 22
+Author: Thurman, Paula
+Book title: Splish Splash | was soled - 76
+
 
 
 
