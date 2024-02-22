@@ -24,10 +24,14 @@ XSLT, which from the book database, where the titles and ISBN code are indicated
 
 **Result**
 
-Found books
-Author: Corets, Eva
-Book title: Oberon's Legacy | was soled - 14
-Book title: The Sundered Grail | was soled - 75
+<h1>Found books</h1>
+<pAuthor: Corets, Eva</p>
+  <ul>
+    <li >Book title: Oberon's Legacy | was soled - 14</li>
+    <li >Book title: The Sundered Grail | was soled - 75</li>
+  </ul>
+
+
 Author: Galos, Mike
 Book title: Visual Studio 7: A Comprehensive Guide | was soled - 25
 Author: Gambardella, Matthew
