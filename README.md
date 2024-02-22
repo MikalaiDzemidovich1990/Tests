@@ -38,32 +38,35 @@ XSLT, which from the book database, where the titles and ISBN code are indicated
   <ul>
     <li >XML Developer's Guide | was soled - 4</li>
   </ul>
-
-
-
-
-
-
-
-Author: 
-Book title: 
-Author: 
-Book title: 
-Author: Garcia, Debra
-Book title: Maeve Ascendant | was soled - 32
-Author: Garghentini, Davide
-Book title: Midnight Rain | was soled - 134
-Author: Knorr, Stefan
-Book title: Creepy Crawlies | was soled - 63
-Author: Kress, Peter
-Book title: Paradox Lost | was soled - 16
-Author: O'Brien, Tim
-Book title: Microsoft .NET: The Programming Bible | was soled - 35
-Book title: MSXML3: A Comprehensive Guide | was soled - 53
-Author: Randall, Cynthia
-Book title: Lover Birds | was soled - 22
-Author: Thurman, Paula
-Book title: Splish Splash | was soled - 76
+<p>Author: Garcia, Debra</p>
+  <ul>
+    <li >Maeve Ascendant | was soled - 32</li>
+  </ul>
+<p>Author: Garghentini, Davide</p>
+  <ul>
+    <li >Midnight Rain | was soled - 134</li>
+  </ul>
+<p>Author: Knorr, Stefan</p>
+  <ul>
+    <li >Creepy Crawlies | was soled - 63</li>
+  </ul>
+<p>Author: Kress, Peter</p>
+  <ul>
+    <li >Paradox Lost | was soled - 16</li>
+  </ul>
+<p>Author: O'Brien, Tim</p>
+  <ul>
+    <li >Microsoft .NET: The Programming Bible | was soled - 35</li>
+    <li >MSXML3: A Comprehensive Guide | was soled - 53</li>
+  </ul>
+<p>Author: Randall, Cynthia</p>
+  <ul>
+    <li >Lover Birds | was soled - 22</li>
+  </ul>
+<p>Author: Thurman, Paula</p>
+  <ul>
+    <li >Splish Splash | was soled - 76</li>
+  </ul>
 
 
 
